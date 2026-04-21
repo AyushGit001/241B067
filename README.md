@@ -1,6 +1,6 @@
 # Design and Analysis of Algorithms - Lab Work (241B067)
 
-This repository contains the implementation and analysis of various algorithmic problems as part of the **Algorithm Lab (Course Code: 241B067)**. Each module is documented using Jupyter Notebooks, focusing on logic, code implementation, and time complexity.
+This repository contains the implementation and analysis of various algorithmic problems as part of the **Algorithm Lab (Er. No: 241B067)**. Each module is documented using Jupyter Notebooks,Google Colab, focusing on logic, code implementation, and time complexity.
 
 ---
 
@@ -15,9 +15,9 @@ The lab work is divided into the following notebooks:
 | **Lab 4** | [lab_4.ipynb](lab_4.ipynb) | Sorting and searching algorithms. |
 | **Lab 5** | [Lab_5.ipynb](Lab_5.ipynb) | Divide and Conquer strategies (e.g., Merge Sort, Quick Sort). |
 | **Lab 6** | [Lab_6.ipynb](Lab_6.ipynb) | Heap Sort and Priority Queue implementations. |
-| **Lab 7 & 8** | [Lab_7.ipynb](Lab_7.ipynb) & [Lab_8.ipynb](Lab_8.ipynb) | Dynamic Programming (LCS, Matrix Chain Multiplication). |
+| **Lab 7 & 8** | [Lab_7.ipynb](Lab_7.ipynb) & [Lab_8.ipynb](Lab_8.ipynb) | Dynamic Programming . |
 | **Lab 9** | [Lab_9.ipynb](Lab_9.ipynb) | Greedy Algorithms (Huffman Coding, Fractional Knapsack). |
-| **Lab 10** | [Lab_10.ipynb](Lab_10.ipynb) | Graph Algorithms (BFS, DFS, Shortest Paths). |
+| **Lab 10** | [Lab_10.ipynb](Lab_10.ipynb) | Graph Algorithms (Warshall, floyd, Shortest Paths). |
 
 ---
 
