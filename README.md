@@ -19,6 +19,7 @@ The lab work is divided into the following notebooks:
 | **Lab 9** | [Lab_9.ipynb](Lab_9.ipynb) | Greedy Algorithms (Huffman Coding, Fractional Knapsack). |
 | **Lab 10** | [Lab_10.ipynb](Lab_10.ipynb) | Graph Algorithms (Warshall, floyd, Shortest Paths). |
 | **Lab 11** | [Lab_11.ipynb](Lab_11.ipynb) | Travelling Salesman Problem |
+| **Lab 12** | [Lab_12.ipynb](Lab_12.ipynb) | Travelling Salesman Problem |
 ---
 
 ## 🛠️ Tech Stack & Requirements
